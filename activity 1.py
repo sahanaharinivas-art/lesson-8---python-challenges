@@ -7,7 +7,7 @@ z = (v+w) * x/y;
 print ("value of (v+w) * x/y is ", z)
 
 name = "Alex"
-age = 0
+age = 10
 
 if name == "alex" or name == "john" and age >=2 :
     print("hello! welcome.")
